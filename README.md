@@ -5,10 +5,10 @@ There are four types of quadcopters and two types of hexacopters in the dataset.
 
 The dataset is already supplied divided into train sets, validation sets and test sets. All three folders contain an image folder and a label folder, in YOLO format.
 
-##Experiments 
+## Experiments 
 
 In addition, there is the notebook containing the experiments conducted on the dataset, using various models and versions of You Only Look Once (YOLO).
 
-##Coming soon
+## Coming soon...
 
 In the future, a paper will be published in which the dataset is presented and the results of the experiments conducted on it will be reported.
