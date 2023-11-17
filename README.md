@@ -9,6 +9,10 @@ The dataset is already supplied divided into train sets, validation sets and tes
 
 In addition, there is the notebook containing the experiments conducted on the dataset, using various models and versions of You Only Look Once (YOLO).
 
+## Converting labels
+
+The dataset is provided with label in YOLO format. If you want to convert the labels in COCO format I suggest to use this [YOLO-2-COCO Converter](https://github.com/Taeyoung96/Yolo-to-COCO-format-converter)
+
 ## Coming soon...
 
 In the future, a paper will be published in which the dataset is presented and the results of the experiments conducted on it will be reported.
