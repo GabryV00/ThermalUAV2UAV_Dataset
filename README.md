@@ -13,6 +13,14 @@ In addition, there is the notebook containing the experiments conducted on the d
 
 The dataset is provided with label in YOLO format. If you want to convert the labels in COCO format I suggest to use this [YOLO-2-COCO Converter](https://github.com/Taeyoung96/Yolo-to-COCO-format-converter)
 
-## Coming soon...
+## Article
 
-In the future, a paper will be published in which the dataset is presented and the results of the experiments conducted on it will be reported.
+This dataset was born from the study conducted in the following paper:
+
+G.L. Foresti, I. Scagnetto, D. Tavari, G. Voltan, "Thermal UAV2UAV Dataset for Training a Counter UAV system: a Strategic Challenge in Civil and Military Domain", in Strategic Leadership Journal, July 2024.
+
+Please, cite this, if you want to use this dataset in others publications. 
+
+The paper is available at the following link: [Read The Article](https://www.casd.it/pluginfile.php/41518/mod_page/content/17/SLJ_Vol_2_2024_ott.pdf)
+
+
